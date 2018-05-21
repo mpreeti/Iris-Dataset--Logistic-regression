@@ -1,0 +1,15 @@
+
+Confusion  Matrix:
+[[10  0  0]
+ [ 0 10  3]
+ [ 0  0  7]]
+Classification report:
+             precision    recall  f1-score   support
+
+          0       1.00      1.00      1.00        10
+          1       1.00      0.77      0.87        13
+          2       0.70      1.00      0.82         7
+
+avg / total       0.93      0.90      0.90        30
+
+Accuracy of the model: 0.9
